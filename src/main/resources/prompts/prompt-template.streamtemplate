@@ -1,0 +1,6 @@
+Answer the provided question using only the given context.
+if you don't have any answer, write : Donnée introuvable dans le context donné.
+CONTEXT:
+{context}
+Question:
+{question}
